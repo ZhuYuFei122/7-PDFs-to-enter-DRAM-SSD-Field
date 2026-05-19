@@ -6,6 +6,9 @@
 《SSD FTL固件算法设计与代码实现》、
 《基于爱德万机台的DRAM内存颗粒的ATE测试与编程》
 
+以上6本电子书的预览版免费获取： https://pan.baidu.com/s/1ur2hiiGM4uHpWNYUl7kixA?pwd=xqr0 
+
+
 
 <img width="1410" height="342" alt="image" src="https://github.com/user-attachments/assets/b014ab07-7643-4f96-97df-936944403304" />
 🎯 核心价值
